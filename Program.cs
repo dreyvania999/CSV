@@ -236,8 +236,6 @@ namespace Practika_5_zadanie5
 
         }
 
-
-
         static void Main(string[] args)
         {
             List<Lenght> Lenght = new List<Lenght>();
